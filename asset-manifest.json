@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/2022-ra-45-router-menu/static/css/main.d3d343f8.css",
+    "main.js": "/2022-ra-45-router-menu/static/js/main.8778f3d5.js",
+    "static/js/787.b9ad76b4.chunk.js": "/2022-ra-45-router-menu/static/js/787.b9ad76b4.chunk.js",
+    "index.html": "/2022-ra-45-router-menu/index.html",
+    "main.d3d343f8.css.map": "/2022-ra-45-router-menu/static/css/main.d3d343f8.css.map",
+    "main.8778f3d5.js.map": "/2022-ra-45-router-menu/static/js/main.8778f3d5.js.map",
+    "787.b9ad76b4.chunk.js.map": "/2022-ra-45-router-menu/static/js/787.b9ad76b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3d343f8.css",
+    "static/js/main.8778f3d5.js"
+  ]
+}
